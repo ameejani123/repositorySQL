@@ -23,4 +23,5 @@ Do sales figures vary between geographic regions?
 **Data & Tools**
 
 Rockbuster relational database management system and Postgre SQL was used for the analysis purpose. The data set includes information about Rockbuster’s film inventory, customers, payments, stores, staff, films, actors, rental history and addresses.
+
 Visualizations https://public.tableau.com/app/profile/amee.jani5963/vizzes
